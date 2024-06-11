@@ -1,0 +1,41 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+div
+{
+    font-size: 40px;
+    width: 30%;
+    height: 100px;
+    
+}
+#id1
+{
+    background: orange;
+    /* position: absolute; */
+}
+#id2
+{
+    background: yellow;
+    /* position: relative;
+    /* top:100px; */
+    /* left:100px; */
+    /* left:70%; */
+    /* top:100px  */
+}
+
+#id3
+{
+    background: red;
+    position:absolute;
+
+}
+
+#id4
+{
+    background:lightblue;
+    width:400px;
+}
+
